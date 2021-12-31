@@ -68,4 +68,12 @@ We can see that with the Stacking of Balanced Random Forest, Catboost and XGBoos
 
 * In addition,  
 in place of a GUI, I have created the telegram bot in Scoring_bot/Scoring.py file that contains the best model. The bot allows a user to fill the form and learn if he or she may receive a loan.
+
 Here is an example of how it works:
+
+![image](https://user-images.githubusercontent.com/34349664/147827903-2fbb6cf0-a622-41ec-aacb-b9f06a5553f2.png)
+
+![image](https://user-images.githubusercontent.com/34349664/147827758-a167e77a-b4fd-4ee8-84e6-f46f6fa25397.png)
+
+![image](https://user-images.githubusercontent.com/34349664/147827982-43fdbb55-bcc4-4b94-ad30-46bd4fadb948.png)
+
