@@ -73,13 +73,9 @@ Here is an example of how it works:
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/34349664/147827903-2fbb6cf0-a622-41ec-aacb-b9f06a5553f2.png" alt="Logo">
+    <img src="https://user-images.githubusercontent.com/34349664/147827903-2fbb6cf0-a622-41ec-aacb-b9f06a5553f2.png">
+    <img src="https://user-images.githubusercontent.com/34349664/147827758-a167e77a-b4fd-4ee8-84e6-f46f6fa25397.png">
+    <img src="https://user-images.githubusercontent.com/34349664/147827982-43fdbb55-bcc4-4b94-ad30-46bd4fadb948.png">
+    <img src="https://user-images.githubusercontent.com/34349664/147828042-5eee63c2-d59a-4a6d-b76d-b232195c4387.png">
   </a>
 </p>
-![image](https://user-images.githubusercontent.com/34349664/147827903-2fbb6cf0-a622-41ec-aacb-b9f06a5553f2.png)
-
-![image](https://user-images.githubusercontent.com/34349664/147827758-a167e77a-b4fd-4ee8-84e6-f46f6fa25397.png)
-
-![image](https://user-images.githubusercontent.com/34349664/147827982-43fdbb55-bcc4-4b94-ad30-46bd4fadb948.png)
-
-![image](https://user-images.githubusercontent.com/34349664/147828042-5eee63c2-d59a-4a6d-b76d-b232195c4387.png)
