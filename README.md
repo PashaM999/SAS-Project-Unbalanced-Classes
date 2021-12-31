@@ -66,6 +66,6 @@ We can see that there are 5 models that perform better than others: No resamplin
 
 We can see that with the Stacking of Balanced Random Forest, Catboost and XGBoost we can get the best result by profit. Surprisingly, this model has been trained on resampled data (Stacking with Balanced Random Forest but trained on original data is not shown, but its result was worse), so we could conclude that additional balanced fitting after undersampling also has a positive influence on the model. This model gives us a 15% increase in revenue, which is a significant improvement for the bank. Also, we would like to draw your attention to the CatBoost model. Its financial result is as good as in the best model, but the number of clients in this model greater than in others. Bank may use this model if they are also interested in attracting clients to different products through credit cards.
 
-* Conclusion  
-Also, the telegram bot was implemented in Scoring_bot/Scoring.py file that contains the best model. The bot allows a user to fill the form and learn if he or she may receive a loan.
-
+* In addition,  
+in place of a GUI, I have created the telegram bot in Scoring_bot/Scoring.py file that contains the best model. The bot allows a user to fill the form and learn if he or she may receive a loan.
+Here is an example of how it works:
